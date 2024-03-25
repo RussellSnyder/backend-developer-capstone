@@ -8,6 +8,7 @@ django = "*"
 pymysql = "*"
 django-mysql = "*"
 cryptography = "*"
+djangorestframework = "*"
 
 [dev-packages]
 
