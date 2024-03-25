@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
+pymysql = "*"
+django-mysql = "*"
+cryptography = "*"
 
 [dev-packages]
 
