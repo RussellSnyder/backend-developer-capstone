@@ -9,6 +9,7 @@ pymysql = "*"
 django-mysql = "*"
 cryptography = "*"
 djangorestframework = "*"
+djoser = "*"
 
 [dev-packages]
 
